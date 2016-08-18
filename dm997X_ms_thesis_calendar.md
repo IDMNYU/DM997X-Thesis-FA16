@@ -55,25 +55,25 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a></strong></li> 
     
     </ul>
     </td> 
 </tr>
 tr>
-    <td>Mon, Feb 08</td>
+    <td>Mon, Sept 19</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
 <tr>
-    <td>Wed, Feb 10</td>
+    <td>Wed, Sept 21</td>
     <td>
 <strong>Homework</strong>
 <ul>
         <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-        <li>Listen to the following Unmistakeable Creative Podcast, <a href="https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger" target="_blank">Asking A More Beautiful Question With Warren Berger</a> (Start listening to the podcast around 22 minutes INTO the podcast...)
-</li>
-<li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-<li>Revise your thesis statement based on the previous exercise ONLY IF your project shifts after doing the exercise above. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+        <li>
+        
+        <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+<li>Revise your thesis statement. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
@@ -81,9 +81,7 @@ tr>
 
 <strong>Class</strong>    
         <ul>
-        <li><strong>Attend Jane McGonigal's talk on the floor, beginning at 7pm.</strong></li>
-        <li>We will meet for class when her talk ends.</li>
-        <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
+        <li>Project Alpha Due</a> </li>
         </ul>
     </td> 
 </tr>
