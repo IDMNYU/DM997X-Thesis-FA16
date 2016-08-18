@@ -4,9 +4,9 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Kate Sicchio, sicchio@nyu.edu • Fall 2016 
-    Wednesdays 7:30-10:20PM • MAGNET 811 • 3 credit hrs 
+    Wednesdays 7:00-9:50 PM • MAGNET 811 • 3 credit hrs 
     Office hours by appointment or directly before class 
-    Office: MAGNET 882 • Office Phone: 646 997 0718
+    Office: MAGNET 88X • Office Phone: coming soon
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
