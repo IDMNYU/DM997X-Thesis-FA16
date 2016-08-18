@@ -2,7 +2,7 @@
 
 Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
 
-###Thesis Faculty (De Angela L. Duff, this semester)
+###Thesis Faculty (Kate Sicchio, this semester)
 
 * The Thesis Faculty is the primary critic and mentor throughout the thesis process. 
 
