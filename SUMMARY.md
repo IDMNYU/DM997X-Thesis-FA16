@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+* [Accountability Partners](accountability_partners.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
-* [Accountability Partners](accountability_partners.md)
 * [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * [Thesis Roles](thesis_roles.md)
