@@ -123,13 +123,13 @@
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-   
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+   <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> (3rd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
      <li><strong><strong><a href="dm997X_ms_thesis_project.md">Project Beta Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong></li>
+     
     </ul> 
     </td> 
 </tr>
@@ -150,59 +150,56 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    
-    <li></li>
+    <ul><li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     </ul>
     <strong>Class</strong>
     <ul> 
-  <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-  
+  <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. </li>
    </ul>
     </td> 
 </tr>
 <tr>
-    <td>Wed, Mar 30</td>
+    <td>Wed, Nov 9</td>
     <td>
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (2nd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (2nd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+    <strong>Class</strong>
+    <ul> 
+  <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. </li>
     </ul> 
     </td> 
 </tr>
-<tr>
-    <td>Thu, Mar 31 or Fri, Apr 1</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
-</tr>
+
 <tr>
     <td>Fri, Apr 1</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 
 <tr>
-    <td>Wed, Apr 6</td>
+    <td>Wed, Nov 16</td>
     <td>
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> </strong></li>
     <li>Share the state of your project (gold) with your accountability partner.</li>
+     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense </a> , Guest critic: TBC</strong></li>
     </ul> 
     
     </td> 
 </tr>
 
 <tr>
-    <td>Wed, Apr 13</td>
+    <td>Wed, Nov 23</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -213,7 +210,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a>, Guest critic: Arlene Ducao</strong></li>
+    <li>Thanksgiving - No Class</li>
     </ul>
    
     </td> 
