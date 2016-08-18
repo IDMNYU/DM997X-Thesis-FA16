@@ -44,6 +44,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
+    <li> 
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations</a></strong></li> 
     
     </ul>
