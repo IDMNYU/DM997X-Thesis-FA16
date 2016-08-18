@@ -2,9 +2,15 @@
 ##### Fall 2016 • Kate Sicchio • Wednesdays • 7-9:50pm • 2MTC MAGNET 811 
 
 ---
-# THESIS RESEARCH
-There are many ways to conduct research beyond doing literature reviews (i.e. reading). I have bolded the ones you may find the most useful. I suggest doing research on what these research methods are if you don't know.
+# THESIS METHODOLOGIES
 
+
+
+
+
+
+
+# RESEARCH METHODS
 01. **A/B Testing**
 
 02. AEIOU
