@@ -25,10 +25,8 @@
     <td>Wed,  Sept 7</td>
     <td>
         <ul>
-        
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-         <li>Discuss Accountability Partners</li>
-         <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
+         <li><a href="accountability_partners.md">Accountability Partners</a></li>
         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?); Resistance / Enemies; Class Exercise: Your mantra, power song, or power move to get you to action.</li>
    
        <li>Class Discussion: Your Productivity System</li>
@@ -46,7 +44,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a></strong></li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations</a></strong></li> 
     
     </ul>
     </td> 
