@@ -1,15 +1,15 @@
 ### DM-GY 997X MS Thesis In Digital Media
-##### Spring 2016 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
+##### Fall 2016 • Kate Sicchio • Wednesdays • 7-9:50pm • 2MTC MAGNET 811
 
 ---
 
 # THESIS PAPER GUIDELINES
 
-For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
+For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates, as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
 
 What do I mean by COMPILED thesis paper? 
 * The body AND the preliminaries (most notably the Table of Contents) in one pdf. 
-* Consult the templates pinned on slack. 
+* Consult the templates 
  * MS_Thesis_Paper_Body.docx
  * MS_Thesis_Paper_Preliminaries_revised.docx
 * Also make sure you include your name in the filename of any file you submit to someone else. I'm getting a lot of thesispaper.pdf but once I download them to my computer I don't know whose paper it is until I open it. Imagine receiving 100 resumes named resume.pdf.
@@ -62,7 +62,7 @@ Create a more detailed written outline by fleshing out they key points of your t
 ## Assignment: Body 
 
 I recommend you use some sort of version control for keeping track of drafts of your writing. 
-* I'd highly recommend writing your paper using **github** (the best version control out there.)
+* I'd recommend writing your paper using **github** (the best version control out there.)
 * Secondly, I'd recommend **google drive** (where you can roll back to different versions)
 * Worst case scenario, would be creating **manual version control by duplicating your word processing (MS Word, Pages, etc.) file and adding the date to each major draft**.
 
@@ -76,7 +76,7 @@ BEFORE you write your body, read:
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
     * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
-    * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+    * *Theoretical Groundings:* Including, but not limited to readings, screenings / viewings, investigation of other artists, designers or entrepreneurs work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
       * Identify your research strategy (case study, survey, grounded theory, experimental research, etc.)
@@ -117,7 +117,7 @@ BEFORE you write your body, read:
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam
 
 * **User Testing Results:** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
-* Stick to your framework for analysis (if you have one!)
+* Stick to your framework for analysis 
 * Keep focused on relevant research objective(s), thus avoiding drift 
 * Summarize main empirical findings
 * Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
