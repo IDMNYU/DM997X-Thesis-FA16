@@ -50,7 +50,7 @@
     </ul>
     </td> 
 </tr>
-tr>
+<tr>
     <td>Mon, Sept 19</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
