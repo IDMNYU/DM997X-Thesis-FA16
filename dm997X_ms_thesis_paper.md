@@ -34,9 +34,6 @@ Here's a guide for a starting point:
 ## Assignment: Visual Outline or Mind Map
 Read [Columbia University's Skimming vs. Reading](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing](http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
 
-Or
-
-Look at the example of a mind map on slack, and create a mind map of your paper.
 
 ### Assignment: Written Outline
 Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
