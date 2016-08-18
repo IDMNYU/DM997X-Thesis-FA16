@@ -3,23 +3,16 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff, deangela.duff@nyu.edu • Spring 2016 
+    Kate Sicchio, sicchio@nyu.edu • Fall 2016 
     Wednesdays 7:30-10:20PM • MAGNET 811 • 3 credit hrs 
     Office hours by appointment or directly before class 
     Office: MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
-#####Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/  
-#####Course Management Site: http://bxmc.slack.com 
----
-
-*“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
-
-*“The successful warrior is the average person with laser-like focus.”* – Bruce Lee
+#####Gitbook: https://ksicchio.gitbooks.io/dm997x-thesis-fa16/
 
 ---
-
 
 ## Welcome to MS Thesis In Digital Media!
 
@@ -85,8 +78,8 @@ Students will also conduct self assessments as well as be evaluated by the profe
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Direct message on Slack about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
+* EMAIL ME - however if your email is more than a paragraph we should probably be meeting in person. 
+* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT direct message long conversations. 
 
 
 ### STUDENT RESPONSIBILITIES
@@ -211,10 +204,6 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### REQUIRED BOOKS
 
 * [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
-
-### REQUIRED MEDIA
-* [Time Management](https://www.youtube.com/watch?v=blaK_tB_KQA) by Randy Pausch, November 2007 (Start listening to the podcast around ? minutes INTO the video...)
-* [Asking A More Beautiful Question With Warren Berger](https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger) (Start listening to the podcast around 22 minutes INTO the podcast...)
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
