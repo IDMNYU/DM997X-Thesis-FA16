@@ -168,8 +168,7 @@
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (2nd Draft) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
     <strong>Class</strong>
-    <ul>
-    <strong>Class</strong>
+
     <ul> 
   <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. </li>
     </ul> 
@@ -177,7 +176,7 @@
 </tr>
 
 <tr>
-    <td>Fri, Apr 1</td>
+    <td>Fri, Nov 7</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 
