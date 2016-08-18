@@ -22,7 +22,7 @@
     </ul></td>    
 </tr>
 <tr>
-    <td>Wed,  Sept 7</td>
+    <td>Wed, Sept 7</td>
     <td>
         <ul>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
@@ -44,7 +44,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    <li> 
+    <li> Discussion: Written Outline for Thesis Paper
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations</a></strong></li> 
     
     </ul>
@@ -59,25 +59,19 @@ tr>
     <td>
 <strong>Homework</strong>
 <ul>
-        <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-        <li>
-        
-        <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-<li>Revise your thesis statement. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-
+        <li><strong>Document Your Weekly Progress: Written Outline <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
 <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
-        
-
 <strong>Class</strong>    
         <ul>
-        <li>Project Alpha Due</a> </li>
+        <li> Methodology vs. Research Methods
+        <li>Project Alpha Presentations</a> </li>
         </ul>
     </td> 
 </tr>
 <tr>
-    <td>Wed, Feb 17</td>
+    <td>Wed, Sept 28</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -87,13 +81,12 @@ tr>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>In-class peer critiques</li>
-    <li>Individual Meetings with <a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Project Milestones / Self Assessment / Process Website Updates / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
-    </ul> 
+    <li>Individual Meetings</li>
+ </ul> 
     </td> 
 </tr>
 <tr>
-    <td>Wed, Feb 24</td>
+    <td>Wed, Oct 5th</td>
     <td>
     <strong>Homework</strong>
     <ul>
