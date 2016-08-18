@@ -210,13 +210,13 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Thanksgiving - No Class</li>
+    <li>Thanksgiving/No Class</li>
     </ul>
    
     </td> 
 </tr>
 <tr>
-<td>Wed, Apr 20</td>
+<td>Wed, Nov 30</td>
 <td>
 <strong>Homework</strong>
     <ul>
@@ -228,16 +228,13 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a>, Guest critic: Katherine Bennett</strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense</a>, Guest critic: TBC</strong></li>
     </ul>
     </td> 
 </tr>
+
 <tr>
-<td>Wed, Apr 27</td>
-<td><b>Thanksgiving Holiday</b> No Class</td>
-</tr>
-<tr>
-    <td>Wed, May 04 Dec 02</td>
+    <td>Wed, Dec 01</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -254,21 +251,19 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Discuss Wasserman Center's Resume Book (info pinned on slack)</li>
+    <li>Discuss Wasserman Center's Resume Book </li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
     <li>Discuss <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> and version control</li>
-    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, Kate Sicchio</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
-    <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
     </ul></td>
 </tr>
 <tr>
-    <td>Dec 7-11 (up to 4 per day)</td>
+    <td>Dec 7-11 THESIS DEFENSE</td>
     <td>
     <strong>Homework</strong>
     <ul>
-    <li><strong>by Monday at 10am</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
+    <li>Flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
     <ul>
     <Li>Dimensions should be 1920x1200</li>
     <li>Your Name</li>
@@ -296,7 +291,7 @@
     <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
     <ul>
     <li>If you want a bound copy for yourself, bind 3.</li>
-    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">NYU SoE's Thesis guidelines</a> which you can download from Slack under Files.</li>
+    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">NYU SoE's Thesis guidelines</a> </li>
     </ul></td>
 </tr>
 </table>
