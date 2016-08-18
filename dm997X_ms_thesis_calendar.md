@@ -14,17 +14,15 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li>Accept the request to <strong>join Slack</strong>.</li>
     <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></strong></li>
     <li><strong>Begin Reading <a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li><strong>Respond to the <a href="beginning_of_semester_status.md">MS Thesis Beginning of Semester Status doc</a></strong>.</li>
-    <li>(OPTIONAL) Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
     </ul></td>    
 </tr>
 <tr>
-    <td>Wed, Jan 27</td>
+    <td>Wed,  Sept 7</td>
     <td>
         <ul>
         <li>Excerpt from 100 ways to motivate yourself by Steven Chandler</li>
@@ -33,16 +31,14 @@
        <Li>Class Exercise: Resistance / Enemies</li>
        <li>Class Exercise: Your Allies</li>
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
-       <li>Discuss Process (Research, Design, and Build)
+   
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
        <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
-       <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
-       <li>Discuss Groups A and B</li>
+       <li>Always report any broken links or typos in the thesis gitbook 
        <li>Discuss Accountability Partners</li>
        <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-        <li>Discuss "Capture" and "Waiting For" from <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done" target="_blank">Getting Things Done: The Art of Stress-Free Productivity</a> by David Allen
         <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
         <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
         <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
@@ -51,18 +47,16 @@
     </td>  
 </tr>
 <tr>
-    <td>Wed, Feb 03</td>
+    <td>Wed, Sept 14</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-     <li>Share the items in the above bullet with your accountability partner.</li>
+    <li>  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     </ul>
 <strong>Class</strong>    
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li> 
-    <li>Guest Talk: ?, IDM MS '15</li>
+    
     </ul>
     </td> 
 </tr>
