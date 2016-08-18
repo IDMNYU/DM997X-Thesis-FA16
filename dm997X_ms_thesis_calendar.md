@@ -86,7 +86,7 @@ tr>
     </td> 
 </tr>
 <tr>
-    <td>Wed, Oct 5th</td>
+    <td>Wed, Oct 5</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -96,14 +96,13 @@ tr>
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
-<li>Individual Meetings with <a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Project Milestones / Self Assessment / Process Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+<li>Individual Meetings </li>
     </ul> 
     </td> 
 </tr>
 
 <tr>
-    <td>Wed, Mar 02</td>
+    <td>Wed, Oct 12</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -115,12 +114,12 @@ tr>
     <strong>Class</strong>
     <ul>
     
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li>Fall Recess/No Class</li>
     </ul>     
     </td> 
 </tr>
 <tr>
-    <td>Wed, Mar 09</td>
+    <td>Wed, Oct 19</td>
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
@@ -130,29 +129,34 @@ tr>
     </ul>
     <strong>Class</strong>
     <ul>
-     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Project Beta Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong></li>
     </ul> 
     </td> 
 </tr>
 
 <tr>
-    <td>Wed, Mar 16</td>
-    <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
+    <td>Wed, Oct 26</td>
+    <td><strong>Homework</strong>
+    <ul><li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
+    </ul>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li><strong>Class</strong>
+    <ul>
+     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Project Beta Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong></li>
+    </ul> </td> 
 </tr>
 <tr>
-    <td>Wed, Mar 23</td>
+    <td>Wed, Nov 2</td>
     <td>
     <strong>Homework</strong>
     <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+    
+    <li></li>
     </ul>
     <strong>Class</strong>
     <ul> 
-   <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+  <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
+  
    </ul>
     </td> 
 </tr>
