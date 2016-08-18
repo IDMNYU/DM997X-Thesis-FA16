@@ -25,24 +25,15 @@
     <td>Wed,  Sept 7</td>
     <td>
         <ul>
-        <li>Excerpt from 100 ways to motivate yourself by Steven Chandler</li>
-        <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
         
-       <Li>Class Exercise: Resistance / Enemies</li>
-       <li>Class Exercise: Your Allies</li>
-       <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
+        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+         <li>Discuss Accountability Partners</li>
+         <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
+        <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?); Resistance / Enemies; Class Exercise: Your mantra, power song, or power move to get you to action.</li>
    
-       <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-       <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
-       <li>Always report any broken links or typos in the thesis gitbook 
-       <li>Discuss Accountability Partners</li>
        <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
-        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-        <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
-        <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
-        <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
-         
+        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones; <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a>;<a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a>; <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
         </ul>
     </td>  
 </tr>
@@ -74,6 +65,7 @@ tr>
         
         <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Revise your thesis statement. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+
 <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
