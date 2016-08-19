@@ -28,6 +28,6 @@ Significance: *in order to help my audience (do, understand how, etc.)_________.
 
 **Further Examples:**
 
-*By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?
+By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?
 
 I propose to research _____ in order to _____ (understand, describe, develop, discover) the _____ (domain of study) for _____ (audience/community of practice). At this stage in the research, the _____ domain will be generally defined as _____ (a general definition of the central concept).* (adapted from Gavin Davie)
