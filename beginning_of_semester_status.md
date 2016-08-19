@@ -73,9 +73,9 @@ How has your project transformed or shifted over the summer break AND why?
 
 **What is your semester schedule for writing and production?** Calendarise your workload backwards from the first week in December as a rough guide.
 
-**Why have you chosen at this particular time to investigate your chosen thesis?
+**Why have you chosen at this particular time to investigate your chosen thesis**?
 
-(OPTIONAL) Other comments:**
+(OPTIONAL) Other comments:
 
 
 
