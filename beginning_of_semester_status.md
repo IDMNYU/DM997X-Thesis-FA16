@@ -48,16 +48,34 @@ installation, etc.)
 **What question is your research trying to answer? **
 Turn that question into a statement. Do not use I in your thesis statement.
 
-What is your "elevator pitch" / Thesis Statement? 
+**What is your "elevator pitch" / Thesis Statement?**
 It is one sentence, not a paragraph.
 
 Here's a guide for a starting point: 
 
-(Working Title) is a (What is it?) that (What does it do?) for (Your Audience) to (Why
-What's the purpose). 
+*(Working Title) is a (What is it?) that (What does it do?) for (Your Audience) to (Why
+What's the purpose). *
 
 Note: Obviously you would not leave in the parentheses; it's a just a marker to denote
 what you should add.
+
+**List your thesis advisor:**
+Why did you select this person to be your thesis advisor?
+
+Did you meet with him/her over the summer break?  What did you discuss/question/decide with your thesis advisor over the summer break?
+
+**Discuss your summer progress**
+What did you do over the summer break to make progress on your project? If you did not work on your project over the summer, please say so.
+
+**What did you do over the summer break to make progress on your paper?** If you did not work on your paper over the winter break, please say so.
+
+How has your project transformed or shifted over the summer break AND why?
+
+**What is your semester schedule for writing and production?** Calendarise your workload backwards from the first week in December as a rough guide.
+
+**Why have you chosen at this particular time to investigate your chosen thesis?
+
+(OPTIONAL) Other comments:**
 
 
 
