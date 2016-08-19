@@ -4,7 +4,6 @@
 ---
 #IDM MS THESIS BEGINNING OF SEMESTER STATUS 
 
-
 Email to sicchio@nyu.edu BEFORE AUG 24TH
 Copy and paste these questions in a word processing application of your choice. Export as a pdf. Name file as yourfirstname_msthesis_status.pdf
 
