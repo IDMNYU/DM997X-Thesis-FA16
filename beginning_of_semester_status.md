@@ -45,4 +45,20 @@ installation, etc.)
 
 **Where does your project fit?** Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?) If you were a curator and you wanted to display your work, which other designers, artists, and creative technologists would we see around you? What are the most important precedents of your project? (context) 
 
+**What question is your research trying to answer? **
+Turn that question into a statement. Do not use I in your thesis statement.
+
+What is your "elevator pitch" / Thesis Statement? 
+It is one sentence, not a paragraph.
+
+Here's a guide for a starting point: 
+
+(Working Title) is a (What is it?) that (What does it do?) for (Your Audience) to (Why
+What's the purpose). 
+
+Note: Obviously you would not leave in the parentheses; it's a just a marker to denote
+what you should add.
+
+
+
 
