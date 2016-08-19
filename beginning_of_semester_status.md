@@ -9,7 +9,7 @@ Copy and paste these questions in a word processing application of your choice. 
 
 Further information and the syllabus will be sent later this summer.
 
-****List your name:****
+**List your name:**
 
 **What are your goals post thesis?** (What are the next steps for you post-graduation? 
 What industry/industries are you interested in? Are you targeting any particular 
