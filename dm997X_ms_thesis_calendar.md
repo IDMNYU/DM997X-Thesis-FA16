@@ -233,7 +233,7 @@
 </tr>
 
 <tr>
-    <td>Wed, Dec 01</td>
+    <td>Wed, Dec 7</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -243,22 +243,19 @@
     <ul>
     <li>Get your paper reviewed at the Writing Center.</li>
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
-    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
+    <li>Email your compiled thesis paper as a PDF</strong></li>
     </ul>
     
     
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>Discuss Wasserman Center's Resume Book </li>
-    <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
-    <li>Discuss <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> and version control</li>
-    </ul>
+    <li>TBC</li>
     
     </ul></td>
 </tr>
 <tr>
-    <td>Dec 7-11 THESIS DEFENSE</td>
+    <td>Dec 5-9 THESIS DEFENSE TBC</td>
     <td>
     <strong>Homework</strong>
     <ul>
