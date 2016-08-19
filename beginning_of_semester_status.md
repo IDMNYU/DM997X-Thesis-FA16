@@ -7,24 +7,26 @@
 Email to [sicchio@nyu.edu](mailto:sicchio@nyu.edu) BEFORE AUG 24TH
 Copy and paste these questions in a word processing application of your choice. Export as a pdf. Name file as yourfirstname_msthesis_status.pdf
 
-List your name:
+**List your name:**
 
-What are your goals post thesis? (What are the next steps for you post-graduation? 
+**What are your goals post thesis?** (What are the next steps for you post-graduation? 
 What industry/industries are you interested in? Are you targeting any particular companies or organizations?)
 
-List your working thesis title:
+**List your working thesis title:**
 
-List 3-5 keywords for your thesis paper: (What topics are you exploring in the research?)
+**List 3-5 keywords for your thesis paper:** (What topics are you exploring in the research?)
 
-List 3 subject domains for your thesis: (Where does the research sit in the world?) 
+**List 3 subject domains for your thesis: **(Where does the research sit in the world?) 
 
-What is the aim of your thesis research? Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, The Craft of Research.
+**What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, The Craft of Research.
 
-Topic: I am trying to (learn about, work on, study)_________.
-Question: because I want to find out who/what/when/where/whether/why/how_________.
-Significance: in order to help my audience (do, understand how, etc.)_________.
+Topic: *I am trying to (learn about, work on, study)_________.*
 
-Further examples: "I am creating a _____ (app, game, installation, sculpture, sound piece….) for _____ (audience) to _____ (action, verb), evoke feelings of _____ (emotional response/tone, adjective)  and thoughts about _____ (topics, nouns) in the context of _____ (where, when)." 
+Question: *because I want to find out who/what/when/where/whether/why/how_________.*
+
+Significance: *in order to help my audience (do, understand how, etc.)_________.*
+
+**Further Examples:**
 
 		"By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?" 
 
