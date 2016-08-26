@@ -23,12 +23,10 @@
 </tr>
 <tr>
     <td>Wed, Sept 7</td>
-    <td>
-        <ul>
-        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+    <td>**<a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A**
         <li>What is expected? Assignments and Presentations
         </li>
-        <
+  
          <li><a href="accountability_partners.md">Accountability Partners</a></li>
          <li>Productivity
          </li>
