@@ -23,7 +23,8 @@
 </tr>
 <tr>
     <td>Wed, Sept 7</td>
-    <td>**<a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A**
+    <td>**Class**
+    <a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A
         <li>What is expected? Assignments and Presentations
         </li>
   
