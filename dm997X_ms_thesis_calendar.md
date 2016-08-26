@@ -26,8 +26,10 @@
     <td>
         <ul>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+        <li>What is expected? Assignments and Presentations
+        </li>
+        <
          <li><a href="accountability_partners.md">Accountability Partners</a></li>
-        <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?); Resistance / Enemies; Class Exercise: Your mantra, power song, or power move to get you to action.</li>
    
        <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
