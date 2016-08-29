@@ -147,7 +147,7 @@
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li><strong>Class</strong>
     <ul>
-     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Project Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong> 7 minute status updates</li>
+     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Beta Project Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong> 7 minute status updates</li>
     </ul> </td> 
 </tr>
 <tr>
