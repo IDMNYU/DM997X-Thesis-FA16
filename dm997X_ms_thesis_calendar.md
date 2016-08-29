@@ -119,7 +119,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li>Fall Recess/No Class</li>
+    <li>No Class - Professor Sicchio Travelling</li>
     </ul>     
     </td> 
 </tr>
