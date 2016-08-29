@@ -70,8 +70,8 @@
 </ul>
 <strong>Class</strong>    
         <ul>
-        <li> Methodology vs. Research Methods
-        <li>Project Alpha Presentations</a> </li>
+        <li>Project Alpha Presentations </li>
+        <li> Methodology vs. Research Methods</li>
         </ul>
     </td> 
 </tr>
