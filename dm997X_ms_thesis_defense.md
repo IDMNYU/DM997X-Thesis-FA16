@@ -43,7 +43,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 
 Bring *2 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 3 copies if you want to get a bound copy for yourself to the Defense for signing. Please note that there are two different signature pages.
 
-The first is seen in the [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), (also on slack  under Files as Masters_Thesis_Project_Guidelines_March2014_version.pdf ), and contains spacing for:
+The first is seen in the [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), and contains spacing for:
 * Project Advisor (will sign at the end of the thesis defense) 
 * Department Head, Jonathan Soffer (IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, will get the department head's signature once you give him the bound copies)
 
