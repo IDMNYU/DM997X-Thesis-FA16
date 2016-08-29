@@ -47,7 +47,7 @@ The first is seen in the [NYU SoE's Thesis guidelines](http://engineering.nyu.ed
 * Project Advisor (will sign at the end of the thesis defense) 
 * Department Head, Jonathan Soffer (IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, will get the department head's signature once you give him the bound copies)
 
-The second signature page is not in the guidelines. Consult the word template, MS_Thesis_Paper_Preliminaries.doc, for both signature pages (on slack  under Files for formatting). This page is dedicated to the Defense Panel, and should include spacing for:
+The second signature page is not in the guidelines. Consult the word template, MS_Thesis_Paper_Preliminaries.doc, for both signature pages. This page is dedicated to the Defense Panel, and should include spacing for:
 * Project Advisor
 * Co-Director (List De Angela L. Duff)
 * External Reviewer
