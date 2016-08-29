@@ -119,7 +119,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li>No Class - Professor Sicchio Travelling</li>
+    <li>Professor Sicchio Travelling</li>
     </ul>     
     </td> 
 </tr>
@@ -133,7 +133,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Project Demo Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong> Science Fair Style</li>
+     <li><strong><strong><a href="science_fair.md">Project Demo Presentations Science Fair Style</a></li>
      
     </ul> 
     </td> 
