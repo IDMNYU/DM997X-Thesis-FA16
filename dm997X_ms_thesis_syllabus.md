@@ -123,12 +123,11 @@ Students will also conduct self assessments as well as be evaluated by the profe
 
 ##### Quantitative Grading Overview
 
-* 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
-* 16% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
-* 11% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
-* 10% Mock Thesis Defenses
-* 10% Project Critique Presentations
-* 03% Self Assessment & Rubrics
+* 60% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
+* 10% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
+* 10% Weekly Progress: Project Milestones on [Thesis Process Website
+* 15% Project Critique Presentations and Mock Thesis Defenses
+* 05% Peer and Self Assessment & Rubrics
 
 
 
@@ -203,7 +202,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED BOOKS
 
-* [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* Booth et al (1995) The Craft of Research. University of Chicago Press.
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
