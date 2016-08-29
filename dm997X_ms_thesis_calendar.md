@@ -16,7 +16,7 @@
     <ul>
     <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></strong></li>
-    <li><strong>Begin Reading <a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li>
+    <li><strong>Begin Reading</strong> Booth et al (1995)The Craft of Research. University of Chicago Press.</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li><strong>Respond to the <a href="beginning_of_semester_status.md">MS Thesis Beginning of Semester Status doc</a></strong>.</li>
     </ul></td>    
