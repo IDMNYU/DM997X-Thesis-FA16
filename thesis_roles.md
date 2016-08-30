@@ -7,8 +7,10 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 * The Thesis Faculty is the primary critic and mentor throughout the thesis process. 
 
 ###Thesis Writing Instructor (Liz McEnaney)
+* 
 The role of the writing instructor is to help students write their thesis paper. Liz will provide feedback on detailed outlines and drafts — helping students structure and organize their paper to make sure ideas are conveyed with clarity, and making suggested edits for grammar and formatting.
 
+* 
 Liz is available as a resource to students; and, it is advised that students meet the recommended deadlines. It is also strongly advised that all students meet with Liz one-on-one during the semester. Liz is available to meet by appointment and can be contacted at em3052@nyu.edu or phone at 917-783-7427. 
 
 ###Thesis Project Advisor
