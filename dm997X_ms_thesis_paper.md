@@ -178,11 +178,11 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Keep to one paragraph (it is not an essay!)
 
 
-## Assignment: Proofread
+## Assignment: Proofread & TurnItIn
 BEFORE you proofread, read: 
 * [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
-
+Use [TurnItIn](http://turnitin.com/) to check for plagarism or mistakes in references/citations. 
 
 **Required deadline: Wed, November 23rd // Submit thesis draft to Liz. Liz will return thesis drafts by Wed, November 30th.** 
 
