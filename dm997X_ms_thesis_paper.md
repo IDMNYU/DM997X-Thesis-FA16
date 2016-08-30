@@ -43,7 +43,9 @@ Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets
 * Section Title
 
 ## Assignment: Detailed Written Outline
-Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
+Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline. 
+
+Recommended: Wed, September 28th // Submit detailed outline to Liz 
 
 Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
 
@@ -62,6 +64,8 @@ I recommend you use some sort of version control for keeping track of drafts of 
 * I'd recommend writing your paper using **github** (the best version control out there.)
 * Secondly, I'd recommend **google drive** (where you can roll back to different versions)
 * Worst case scenario, would be creating **manual version control by duplicating your word processing (MS Word, Pages, etc.) file and adding the date to each major draft**.
+
+Recommended: Meet with Liz prior to submission of thesis draft to discuss detailed outline and / or to review section drafts 
 
 BEFORE you write your body, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
@@ -180,7 +184,9 @@ BEFORE you proofread, read:
 
 
 
+**Required deadline: Wed, November 23rd // Submit thesis draft to Liz. Liz will return thesis drafts by Wed, November 30th.** 
 
+Recommended: Liz will review second drafts of thesis papers from November 30th - December 9th. Papers will be returned with comments 2-3 days after they are sent to Liz.
 
 
 
