@@ -81,7 +81,7 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Send <strong><a href="dm997X_ms_thesis_paper.md">Detailed Written Outline</a></strong> (1st Draft) to Liz (writing instructor) and Post your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Share the items in the above bullets with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
