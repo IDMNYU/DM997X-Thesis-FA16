@@ -225,9 +225,10 @@
 <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> (2nd Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a> (1st Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+    <li>Recommended: Liz will review second drafts of thesis papers from November 30th - December 9th. Papers will be returned with comments 2-3 days after they are sent to Liz.</li>
 
     </ul>
     <strong>Class</strong>
