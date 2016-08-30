@@ -208,8 +208,8 @@
     <strong>Homework</strong>
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
-    <li>Share your <strong> <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor and accountability partner if you have not already done so.</li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
+    <li>Share your <strong> <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with  Liz (writing instructor),  project advisor and accountability partner if you have not already done so.</li>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
     </ul>
     <strong>Class</strong>
