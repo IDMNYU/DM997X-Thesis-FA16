@@ -75,7 +75,7 @@ BEFORE you write your body, read:
 *I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
 
  * **Research**
-    * *Literature Review:* Who-is-writing-what in relation to your research area(s).
+    * *Contextual Review:* Who-is-writing-what in relation to your research area(s).
     * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
     * *Theoretical Groundings:* Including, but not limited to readings, screenings / viewings, investigation of other artists, designers or entrepreneurs work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
