@@ -192,7 +192,8 @@ In order to adhere to FERPA guidelines, there are two possible approaches to sub
 This is the case with the integration between NYU Classes and the Assignments tool (www.nyu.edu/servicelink/041223513203041), where students may submit their work directly to TurnItIn. Instructors are strongly encouraged to make it clear to the students that TurnItIn will be used at some point within their course. A statement within the course syllabus and/or course description is recommended, as well as verbal reminders, as appropriate. At the time of submission to TurnItIn within NYU Classes, students will be presented with a system notification that TurnItIn will evaluate their work.</li>
 
 <li>Instructor submits student work 
-An instructor may submit a piece of a student's work or an entire paper to TurnItIn as long as all personally identifiable information (PII) is redacted from the work. PII includes, but is not limited to: name, identification number, any descriptions of the student that would make him/her identifiable. The method of instructor submission must also be through NYU Classes (www.nyu.edu/servicelink/041223513203041). After receipt of the TurnItIn analysis, the instructor is encouraged to contact the student to discuss the analysis of the work.</li></ul>
+An instructor may submit a piece of a student's work or an entire paper to TurnItIn as long as all personally identifiable information (PII) is redacted from the work. PII includes, but is not limited to: name, identification number, any descriptions of the student that would make him/her identifiable. The method of instructor submission must also be through NYU Classes (www.nyu.edu/servicelink/041223513203041). After receipt of the TurnItIn analysis, the instructor is encouraged to contact the student to discuss the analysis of the work.</li>
+
 
 **Required deadline: Wed, November 23rd // Submit thesis draft to Liz. Liz will return thesis drafts by Wed, November 30th.** 
 
