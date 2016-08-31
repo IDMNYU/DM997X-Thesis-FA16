@@ -184,6 +184,16 @@ BEFORE you proofread, read:
 
 Use [TurnItIn](http://turnitin.com/) to check for plagarism or mistakes in references/citations. 
 
+TurnItIn is the originality detection service available through NYU Classes. Before using TurnItIn, it is important to understand the implications under the Family Educational Rights and Privacy Act of 1974 (FERPA) regarding student work. Once a student submits an assignment or a piece of work to an instructor, this work then is considered an education record under FERPA. (For more information regarding FERPA at NYU, please see www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/FERPA.html.)
+
+In order to adhere to FERPA guidelines, there are two possible approaches to submitting student work to an originality detection service:
+
+<li>Students submit their own work
+This is the case with the integration between NYU Classes and the Assignments tool (www.nyu.edu/servicelink/041223513203041), where students may submit their work directly to TurnItIn. Instructors are strongly encouraged to make it clear to the students that TurnItIn will be used at some point within their course. A statement within the course syllabus and/or course description is recommended, as well as verbal reminders, as appropriate. At the time of submission to TurnItIn within NYU Classes, students will be presented with a system notification that TurnItIn will evaluate their work.</li>
+
+<li>Instructor submits student work 
+An instructor may submit a piece of a student's work or an entire paper to TurnItIn as long as all personally identifiable information (PII) is redacted from the work. PII includes, but is not limited to: name, identification number, any descriptions of the student that would make him/her identifiable. The method of instructor submission must also be through NYU Classes (www.nyu.edu/servicelink/041223513203041). After receipt of the TurnItIn analysis, the instructor is encouraged to contact the student to discuss the analysis of the work.</li></ul>
+
 **Required deadline: Wed, November 23rd // Submit thesis draft to Liz. Liz will return thesis drafts by Wed, November 30th.** 
 
 Recommended: Liz will review second drafts of thesis papers from November 30th - December 9th. Papers will be returned with comments 2-3 days after they are sent to Liz.
