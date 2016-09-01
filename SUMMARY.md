@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Accountability Partners](accountability_partners.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
@@ -13,5 +12,6 @@
 * [Thesis Methodologies](dm997X_ms_thesis_research.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
+* [Accountability Partners](accountability_partners.md)
 * [Beginning of Semester Status](beginning_of_semester_status.md)
 
