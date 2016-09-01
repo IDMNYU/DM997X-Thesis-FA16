@@ -28,7 +28,7 @@
     <a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A </li>
         <li>What is expected? Assignments and Presentations
         </li>
-        <li><strong>Guest: Liz McEnaney</strong> TBC
+        <li><strong>Guest: Liz McEnaney</strong> 
          </li>
    <li>Examples of Past Papers
          </li>
