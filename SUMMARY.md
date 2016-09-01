@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
-* [Thesis Project](dm997X_ms_thesis_project.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
+* [Thesis Project](dm997X_ms_thesis_project.md)
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
 * [Project Presentations & Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
