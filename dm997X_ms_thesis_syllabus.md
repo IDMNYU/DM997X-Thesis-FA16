@@ -1,6 +1,6 @@
 # DM-GY 997X MS Thesis In Digital Media
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+![](tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Kate Sicchio, sicchio@nyu.edu • Fall 2016 
