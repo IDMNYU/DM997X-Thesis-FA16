@@ -49,7 +49,8 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    <li> Discussion: [Written Outline for Thesis Paper](https://docs.google.com/a/nyu.edu/presentation/d/1WbwHyugIwNo04GcNG0UYcEd1NU6nWdFKzo6NmG3jbWE/edit?usp=sharing)
+    <li> Discussion: <a href ="https://docs.google.com/a/nyu.edu/presentation/d/1WbwHyugIwNo04GcNG0UYcEd1NU6nWdFKzo6NmG3jbWE/edit?usp=sharing">Written Outline for Thesis Paper</a>
+   
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Presentations</a></strong></li> 
     
     </ul>
