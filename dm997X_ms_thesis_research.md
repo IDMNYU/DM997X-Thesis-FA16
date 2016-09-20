@@ -4,8 +4,8 @@
 ---
 # THESIS METHODOLOGIES
 
-
-
+Presentation Here:
+https://docs.google.com/presentation/d/15lW_vimDZLDcmBUm9twiaQpdWDA8LKD0vreK0VGD-jE/edit#slide=id.p3
 
 
 
