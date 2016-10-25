@@ -160,7 +160,7 @@
     </ul>
     <strong>Class</strong>
     <ul> 
-  <li> Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. </li>
+  <li> Schedule one on one appointments for midterm assessment.</strong> Post your mid-term [self-assessments](https://docs.google.com/a/nyu.edu/document/d/1a34TrrCJy77o0OVjrjDlqo2ge334y-aG2DmUhK2sTik/edit?usp=sharing) to your process blog. </li>
    </ul>
     </td> 
 </tr>
