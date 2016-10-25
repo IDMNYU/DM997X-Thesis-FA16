@@ -290,11 +290,11 @@
     <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
 </tr>
 <tr>
-    <td>TBD</td>
+    <td>**Dec 23rd 3PM**</td>
     <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
     <ul>
     <li>If you want a bound copy for yourself, bind 3.</li>
-    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">NYU SoE's Thesis guidelines</a> </li>
+    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="https://drive.google.com/drive/u/0/folders/0B4nUNuLrhw35bUE0YllRY21nOVk">NYU SoE's Thesis guidelines</a> </li>
     </ul></td>
 </tr>
 </table>
