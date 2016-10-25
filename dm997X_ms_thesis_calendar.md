@@ -294,7 +294,7 @@
     <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
     <ul>
     <li>If you want a bound copy for yourself, bind 3.</li>
-    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="https://drive.google.com/drive/u/0/folders/0B4nUNuLrhw35bUE0YllRY21nOVk">NYU SoE's Thesis guidelines</a> </li>
+    <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="https://drive.google.com/open?id=0B4nUNuLrhw35MDhpa3JSUDFrNTA">NYU SoE's Thesis guidelines</a> </li>
     </ul></td>
 </tr>
 </table>
