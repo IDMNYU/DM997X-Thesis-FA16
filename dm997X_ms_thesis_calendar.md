@@ -162,7 +162,7 @@
     </ul>
     <strong>Class</strong>
     <ul> 
-  <li> Schedule one on one appointments for midterm assessment. Post your mid-term [self-assessments](https://drive.google.com/open?id=1a34TrrCJy77o0OVjrjDlqo2ge334y-aG2DmUhK2sTik) to your process blog. </li>
+  <li> Schedule one on one appointments for midterm assessment. Post your mid-term self-assessment to your process blog. </li>
    </ul>
     </td> 
 </tr>
@@ -178,7 +178,7 @@
     <strong>Class</strong>
 
     <ul> 
-  <li> Schedule one on one appointments for midterm assessment.</strong> Post your mid-term [self-assessments](https://docs.google.com/a/nyu.edu/document/d/1a34TrrCJy77o0OVjrjDlqo2ge334y-aG2DmUhK2sTik/edit?usp=sharing) to your process blog. </li>
+  <li> Schedule one on one appointments for midterm assessment. </li>
     </ul> 
     </td> 
 </tr>
@@ -199,7 +199,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense </a> , Guest critic: TBC</strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense </a> , Guest critic: Prof Andrew Brown, Griffith University (TBC)</strong></li>
     </ul> 
     
     </td> 
@@ -229,10 +229,10 @@
     <ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     
-    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a> (1st Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a> (1st Draft) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
     <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
-    <li>Recommended: Liz will review second drafts of thesis papers from November 30th - December 9th. Papers will be returned with comments 2-3 days after they are sent to Liz.</li>
-
+    <li>**SEND PAPER TO YOUR EXTERNAL EXAMINER ONE WEEK BEFORE YOUR THESIS DEFENSE</lI>
+**
     </ul>
     <strong>Class</strong>
     <ul>
