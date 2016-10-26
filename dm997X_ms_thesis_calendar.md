@@ -259,12 +259,12 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>TBC</li>
+    <li>No class- please attend your peers defense!</li>
     
     </ul></td>
 </tr>
 <tr>
-    <td>Dec 5-9 THESIS DEFENSE TBC</td>
+    <td>Dec 5-9 THESIS DEFENSE</td>
     <td>
     <strong>Homework</strong>
     <ul>
