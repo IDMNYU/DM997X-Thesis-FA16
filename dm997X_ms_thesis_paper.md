@@ -10,8 +10,7 @@ For standard formatting, consult Master's Thesis and Project Guidelines_March201
 What do I mean by COMPILED thesis paper? 
 * The body AND the preliminaries (most notably the Table of Contents) in one pdf. 
 * Consult the templates 
- * MS_Thesis_Paper_Body.docx
- * MS_Thesis_Paper_Preliminaries_revised.docx
+ *https://drive.google.com/open?id=0B4nUNuLrhw35MDhpa3JSUDFrNTA
 * Also make sure you include your name in the filename of any file you submit to someone else. I'm getting a lot of thesispaper.pdf but once I download them to my computer I don't know whose paper it is until I open it. Imagine receiving 100 resumes named resume.pdf.
 
 **<font color="#ff0000">Please have someone other than yourself read and edit all of your writing before you turn it in.</font>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of each paper assignment as Editor.
@@ -182,7 +181,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 BEFORE you proofread, read: 
 * [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
-Use [TurnItIn](http://turnitin.com/) to check for plagarism or mistakes in references/citations. 
+Use [TurnItIn](https://newclasses.nyu.edu) in NYU Classes to check for plagarism or mistakes in references/citations. 
 
 TurnItIn is the originality detection service available through NYU Classes. Before using TurnItIn, it is important to understand the implications under the Family Educational Rights and Privacy Act of 1974 (FERPA) regarding student work. Once a student submits an assignment or a piece of work to an instructor, this work then is considered an education record under FERPA. (For more information regarding FERPA at NYU, please see www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/FERPA.html.)
 
