@@ -148,7 +148,9 @@
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li><strong>Class</strong>
     <ul>
-     <li><strong><strong><a href="dm997X_ms_thesis_project.md">Beta Project Presentations</a> <a href="dm997X_ms_thesis_groups.md" target="_blank"></a></strong> 7 minute status updates</li>
+     <li><strong><strong><a href="dm997X_ms_thesis_project.md">
+     Status updates</li>
+     <li>Template, TurnItIn, Important Dates
     </ul> </td> 
 </tr>
 <tr>
@@ -160,7 +162,7 @@
     </ul>
     <strong>Class</strong>
     <ul> 
-  <li> Schedule one on one appointments for midterm assessment.</strong> Post your mid-term [self-assessments](https://docs.google.com/a/nyu.edu/document/d/1a34TrrCJy77o0OVjrjDlqo2ge334y-aG2DmUhK2sTik/edit?usp=sharing) to your process blog. </li>
+  <li> Schedule one on one appointments for midterm assessment. Post your mid-term [self-assessments](https://drive.google.com/open?id=1a34TrrCJy77o0OVjrjDlqo2ge334y-aG2DmUhK2sTik) to your process blog. </li>
    </ul>
     </td> 
 </tr>
