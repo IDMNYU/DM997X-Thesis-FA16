@@ -94,7 +94,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1230</td>
 <td>811</td>
 <td>Venkitaraman Harimaran</td>
-<td></td>
+<td>Joel Murphy / President, OpenBCI </td>
 <td>Domenick Propati</td>
 <td>DeAngela Duff</td>
 </tr>
@@ -129,7 +129,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Dec 9th</td>
 <td>630pm</td>
 <td>811</td>
-<td>Bobby</td>
+<td>Bobby Hieger</td>
 <td>Aileen Wilson / Professor, Art and Design Education, Pratt Institute</td>
 <td>Anne-Laure Fayard</td>
 <td>DeAngela Duff</td>
@@ -138,7 +138,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Dec 9th</td>
 <td>730pm</td>
 <td>811</td>
-<td>Olivia</td>
+<td>Olivia Hu</td>
 <td></td>
 <td></td>
 <td>DeAngela Duff</td>
