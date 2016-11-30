@@ -27,7 +27,95 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Project Advisor<br>Title / Position<br>Organization</td>
     <td>Co-Director on Signature Page</td>
 </tr>
-
+<tr>
+<td>Dec 5th</td>
+<td>730pm</td>
+<td>824</td>
+<td>Melody Loveless</td>
+<td>Ryan Ross Smith / Rensselaer Polytechnic Institute</td>
+<td>Kaho Abe</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 6th</td>
+<td>630pm</td>
+<td>824</td>
+<td>Parth</td>
+<td></td>
+<td>Mark </td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 8th</td>
+<td>1130am TBC</td>
+<td>824</td>
+<td>Zach Dorsett</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dec 8th</td>
+<td>730pm</td>
+<td>817</td>
+<td>Hua</td>
+<td></td>
+<td>Shawn Van Every</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>DeAngela Duff</td>
+</tr>
 </table>
 
 ## BEFORE THE THESIS DEFENSE
