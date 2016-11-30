@@ -77,7 +77,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1030am</td>
 <td>811</td>
 <td>Jesse Johnson</td>
-<td></td>
+<td>Sundar Raman / Director of Creative Engineering, Local Projects</td>
 <td>Clara Fernandez</td>
 <td>DeAngela Duff</td>
 </tr>
