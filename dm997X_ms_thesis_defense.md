@@ -40,9 +40,9 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Dec 6th</td>
 <td>630pm</td>
 <td>824</td>
-<td>Parth</td>
+<td>Parth Darji</td>
 <td></td>
-<td>Mark </td>
+<td>Mark Skwarek</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
@@ -50,68 +50,95 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1130am TBC</td>
 <td>824</td>
 <td>Zach Dorsett</td>
-<td></td>
+<td>Ethan Hein</td>
 <td></td>
 </tr>
 <tr>
 <td>Dec 8th</td>
 <td>730pm</td>
 <td>817</td>
-<td>Hua</td>
+<td>Hua Zhu</td>
 <td></td>
 <td>Shawn Van Every</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
 <td>Dec 9th</td>
+<td>930am</td>
+<td>811</td>
+<td>Tianyi Chen</td>
 <td></td>
+<td>Claire Kearney-Volpe</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td>1030am</td>
+<td>811</td>
+<td>Jesse Johnson</td>
 <td></td>
+<td>Clara Fernandez</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td>1130am</td>
+<td>811</td>
+<td>Marijke</td>
 <td></td>
+<td>Dana</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td>1230</td>
+<td>811</td>
+<td>Venkitaraman Harimaran</td>
 <td></td>
+<td>Domenick Propati</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td>230pm</td>
+<td>811</td>
+<td>Sarah</td>
+<td>Nick</td>
+<td>Arlene Ducao</td>
+<td>DeAngela Duff</td>
+</tr>
+<tr>
+<td>Dec 9th</td>
+<td>330pm</td>
+<td>811</td>
+<td>Caitlin Sikora</td>
+<td>Nancy Nowacek</td>
 <td></td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
+<td>Dec 9th</td>
+<td>430pm</td>
+<td>811</td>
+<td>Anneka Goss</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Arlene Ducao</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Dec 9th</td>
+<td>630pm</td>
+<td>811</td>
+<td>Bobby</td>
+<td>Aileen Wilson / Professor, Art and Design Education, Pratt Institute</td>
+<td>Anne-Laure Fayard</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>DeAngela Duff</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>DeAngela Duff</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Dec 9th</td>
+<td>730pm</td>
+<td>811</td>
+<td>Olivia</td>
 <td></td>
 <td></td>
 <td>DeAngela Duff</td>
