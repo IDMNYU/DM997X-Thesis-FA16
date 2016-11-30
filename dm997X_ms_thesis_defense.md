@@ -84,9 +84,9 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Dec 9th</td>
 <td>1130am</td>
 <td>811</td>
-<td>Marijke</td>
+<td>Marijke Geness Jorritsma</td>
 <td></td>
-<td>Dana</td>
+<td>Dana Karwas</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>811</td>
 <td>Caitlin Sikora</td>
 <td>Nancy Nowacek</td>
-<td></td>
+<td>Winslow Burleson</td>
 <td>DeAngela Duff</td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>430pm</td>
 <td>811</td>
 <td>Anneka Goss</td>
-<td></td>
+<td>Tania Van Bergen / Independent Director Producer</td>
 <td>Arlene Ducao</td>
 <td>DeAngela Duff</td>
 </tr>
