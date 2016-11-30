@@ -68,7 +68,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>930am</td>
 <td>811</td>
 <td>Tianyi Chen</td>
-<td></td>
+<td>Cameron Cundiff / A11Y NYC </td>
 <td>Claire Kearney-Volpe</td>
 <td>DeAngela Duff</td>
 </tr>
