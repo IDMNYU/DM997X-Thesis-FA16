@@ -86,7 +86,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1130am</td>
 <td>811</td>
 <td>Marijke Geness Jorritsma</td>
-<td></td>
+<td>Debra Anderson / Co-founder Datavized</td>
 <td>Dana Karwas</td>
 <td>DeAngela Duff</td>
 </tr>
