@@ -103,7 +103,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>Dec 9th</td>
 <td>230pm</td>
 <td>811</td>
-<td>Sarah</td>
+<td>Sarah Groff Hennigh-Palermo</td>
 <td>Nick Montfort / Professor of Digital Media, Massachusetts Institute of Technology</td>
 <td>Arlene Ducao</td>
 <td>DeAngela Duff</td>
