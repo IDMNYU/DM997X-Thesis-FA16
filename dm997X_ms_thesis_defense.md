@@ -104,7 +104,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>230pm</td>
 <td>811</td>
 <td>Sarah</td>
-<td>Nick</td>
+<td>Nick Montfort / Professor of Digital Media, Massachusetts Institute of Technology</td>
 <td>Arlene Ducao</td>
 <td>DeAngela Duff</td>
 </tr>
