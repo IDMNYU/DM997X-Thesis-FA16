@@ -50,8 +50,9 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1130am TBC</td>
 <td>824</td>
 <td>Zach Dorsett</td>
+<t></td<
 <td>Ethan Hein</td>
-<td></td>
+<td>DeAngela Duff TBC</td>
 </tr>
 <tr>
 <td>Dec 8th</td>
