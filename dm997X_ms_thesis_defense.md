@@ -41,7 +41,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>630pm</td>
 <td>824</td>
 <td>Parth Darji</td>
-<td></td>
+<td>Joseph Rampolla / Officer, New Jersey State Police</td>
 <td>Mark Skwarek</td>
 <td>DeAngela Duff</td>
 </tr>
