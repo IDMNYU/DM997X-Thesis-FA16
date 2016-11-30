@@ -50,7 +50,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>1130am TBC</td>
 <td>824</td>
 <td>Zach Dorsett</td>
-<td></td>
+<td>Todd Bryant / NYU</td>
 <td>Ethan Hein</td>
 <td>DeAngela Duff TBC</td>
 </tr>
@@ -141,7 +141,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>811</td>
 <td>Olivia Hu</td>
 <td></td>
-<td></td>
+<td>Jonathan Zungre</td>
 <td>DeAngela Duff</td>
 </tr>
 </table>
