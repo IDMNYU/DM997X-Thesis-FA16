@@ -47,12 +47,12 @@ See descriptions of these [thesis roles](thesis_roles.md).
 </tr>
 <tr>
 <td>Dec 8th</td>
-<td>1130am TBC</td>
+<td>930am</td>
 <td>824</td>
 <td>Zach Dorsett</td>
 <td>Todd Bryant / NYU</td>
 <td>Ethan Hein</td>
-<td>DeAngela Duff TBC</td>
+<td>DeAngela Duff </td>
 </tr>
 <tr>
 <td>Dec 8th</td>
