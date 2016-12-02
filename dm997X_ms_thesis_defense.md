@@ -140,7 +140,8 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <td>730pm</td>
 <td>811</td>
 <td>Olivia Hu</td>
-<td></td>
+<td>Ben Poland / Game Designer, Digital Continue
+</td>
 <td>Jonathan Zungre</td>
 <td>DeAngela Duff</td>
 </tr>
