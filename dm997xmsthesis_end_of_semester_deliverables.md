@@ -9,7 +9,7 @@ NOTE: There are other assignments listed on the [thesis paper](dm997X_ms_thesis_
 
 ## DELIVERABLES FOR IDM ARCHIVES 
 
-*Direct message the dropbox link or google drive folder link to deangela on slack.*
+*Email your folder to Kate.*
 
 If you want to create a dropbox account and have not already done so, let me know. Both you and I can get additional free space if I invite you.
 
